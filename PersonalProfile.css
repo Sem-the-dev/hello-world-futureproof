@@ -1,0 +1,43 @@
+body {
+  background: url("https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80");
+}
+h1 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+}
+
+#languages {
+  background: rgba(255, 255, 255, 0.5);
+  border: 3px solid aliceblue;
+  padding: 40px;
+  float: left;
+  list-style-type: none;
+  position: relative;
+}
+
+#frameworks {
+  background: rgba(255, 255, 255, 0.5);
+  border: 3px solid aliceblue;
+  padding: 40px;
+  float: right;
+  list-style-type: none;
+}
+
+#projects {
+  display: block;
+  background: rgba(255, 255, 255, 0.5);
+  border: 3px solid aliceblue;
+  padding: 40px;
+  text-align: center;
+  list-style-type: none;
+  margin-top: 200px;
+}
